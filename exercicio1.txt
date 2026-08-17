@@ -1,0 +1,8 @@
+Seus envios foram feitos com êxito!successful!
+Disciplina: 2295366, Análise e Projeto de Sistemas II (Segunda/19h10)
+Formulário: Envio do link do repositório GitHub
+
+Data de envio: 17/08/26 18:23 (BRT) (Late)
+Tamanho do envio: 131 bytes
+Remetente: Kennedy Oliveira Pires da Silva UNIPÊ_Cst em Análise e Desenvolvimento de Sistemas_4B_20262
+Número de confirmação: 4316fadb17364b7bb7c320c563d2c055
